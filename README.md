@@ -1,1 +1,1 @@
-# equalityfor_all
+# equality-for-all
